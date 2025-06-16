@@ -2,7 +2,7 @@
 
 Sand is Sand compiler module list written in Class Lang.
 
-Sand is park sande.
+Sand is park sand.
 
 Sand has park worth.
 
